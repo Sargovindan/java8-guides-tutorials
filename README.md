@@ -25,3 +25,9 @@ Go straight to what you want :)
 - [Java 8 - Predicate](https://github.com/alexandregama/java8-guides-tutorials/blob/master/src/test/java/predicate/PredicateFunctionalInterfaceTest.java)
 - [Java 8 - Comparator](https://github.com/alexandregama/java8-guides-tutorials/blob/master/src/test/java/comparator/ComparatorFunctionalInterfaceTest.java)
 - [Java 8 - Suppliers](https://github.com/alexandregama/java8-guides-tutorials/blob/master/src/test/java/suppliers/SupplierFunctionalInterfaceTest.java)
+
+
+--
+My Comments 
+------------------
+
